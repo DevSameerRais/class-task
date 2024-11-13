@@ -6,10 +6,10 @@
 .card-main
 {
 background-color: rgb(182, 170, 170);
-box-shadow: 2px 2px 10px black;
+box-shadow: 2px 2px 18px black;
 }
 body{
-    background-color:whitesmoke;
+    background-color:lightyellow;
 }
 .heading{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
